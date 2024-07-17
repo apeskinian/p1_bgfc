@@ -1,0 +1,26 @@
+/* OVERRIDE BROWSER DEFAULTS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* GENERAL STYLES */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    color: white;
+    background-color: #3b4d66;
+}
+
+main {
+    background-color: #d8ca8d;
+}
+
+footer {
+    background-color: #f2eace;
+}
