@@ -105,9 +105,9 @@ main {
 }
 
 #hero {
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: url(../images/bgfc-hero.webp) no-repeat 10% 75%/cover;    
+    background: url(../images/bgfc-hero.webp) no-repeat 10% 85%/cover;    
 }
 
 /* FOOTER */
@@ -137,6 +137,7 @@ main {
 
 /* MOVE NAVBAR TO THE TOP FOR LAPTOPS AND DESKTOPS */
 @media screen and (min-width: 992px) {
+    /* HEADER */
     /* push body content down to account for new navbar at the top */
     header {
         height: 40px;
@@ -179,7 +180,12 @@ main {
     .current-page {
         border-bottom: 1px solid whitesmoke;
     }
-     
+    /* MAIN */
+    #hero {
+        height: 600px;
+    }
+
+    /* FOOTER */
     /* move social bar back down */
     #social-networks {
         margin-bottom: 0;
