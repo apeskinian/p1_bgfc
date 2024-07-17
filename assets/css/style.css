@@ -19,8 +19,21 @@ header {
 
 main {
     background-color: #d8ca8d;
+    flex-grow: 1;
 }
 
-footer {
+/* FOOTER */
+#social-networks {
     background-color: #f2eace;
+    border: 4px solid #3b4d66;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 1.5rem;
+    color: #3b4d66;
 }
