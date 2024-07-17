@@ -104,6 +104,12 @@ main {
     flex-grow: 1;
 }
 
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/bgfc-hero.webp) no-repeat 10%/cover;    
+}
+
 /* FOOTER */
 #social-networks {
     background-color: #f2eace;
@@ -133,7 +139,7 @@ main {
 @media screen and (min-width: 992px) {
     /* push body content down to account for new navbar at the top */
     header {
-        height: 47.59px;
+        height: 40px;
     }
     /* increase title size slightly */
     #title-area {
