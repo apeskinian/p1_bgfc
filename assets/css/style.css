@@ -98,7 +98,6 @@ nav {
     border-bottom: 1px solid #3b4d66;
 }
 
-
 /* MAIN */
 main {
     flex-grow: 1;
@@ -189,6 +188,5 @@ main {
     /* move social bar back down */
     #social-networks {
         margin-bottom: 0;
-    }
-    
+    }   
 }
