@@ -20,6 +20,7 @@ h1 {
 
 /* HEADER */
 header {
+    height: 0;
     color: whitesmoke;
 }
 
@@ -111,4 +112,63 @@ main {
 #social-networks i {
     font-size: 1.25rem;
     color: #3b4d66;
+}
+
+@media screen and (min-width: 768px) {
+    #title-area {
+        font-size: 1.2rem;
+        padding: 0.8rem 0.8rem 0.8rem 20%;
+    }
+}
+
+/* MOVE NAVBAR TO THE TOP FOR LAPTOPS AND DESKTOPS */
+@media screen and (min-width: 992px) {
+    /* push body content down to account for new navbar at the top */
+    header {
+        height: 47.59px;
+    }
+    /* increase title size slightly */
+    #title-area {
+        font-size: 1.5rem;
+        top: 89px;
+        padding: 1rem 1rem 1rem 20%;
+    }
+
+    /* moving navbar up */
+    #nav-area {
+        position: fixed;
+        top: 0%;
+        height: 35px;
+    }
+
+    nav {
+        display: block;
+        position: static;
+        width: 100%;
+    }
+
+    #menu {
+        background-color: #3b4d66;
+        color: whitesmoke;
+        display: flex;
+        justify-content: center;
+    }
+
+    #menu>li {
+        margin: 0.8rem 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    .current-page {
+        border-bottom: 1px solid whitesmoke;
+    }
+     
+    /* move social bar back down */
+    #social-networks {
+        margin-bottom: 0;
+    }
+    
 }
