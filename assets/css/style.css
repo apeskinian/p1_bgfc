@@ -40,7 +40,11 @@ header a {
     position: relative;
     width: fit-content;
     top: 40px;
+    right: 0.5%;
     padding: 0.5rem 0.5rem 0.5rem 20%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 2px 2px 2px #3a3a3a;
 }
 /* END OF FLOATING TITLE */
 
