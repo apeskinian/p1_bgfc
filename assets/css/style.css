@@ -165,7 +165,7 @@ main {
 /* END OF HOMEPAGE */
 
 /* UPCOMING EVENTS PAGE */
-#upcoming-page {
+#upcoming-section {
     height: 100%;
     width: 100vw;
     background: url(../images/bgfc-upcoming.webp) no-repeat center center/cover;
@@ -214,8 +214,13 @@ main {
         padding: 0.8rem 0.8rem 0.8rem 20%;
     }
 
+    #upcoming-page #title-area {
+        position: fixed;
+        left: -0.5%;
+    }
+
     /* change upcoming page layout to allow for more space */
-    #upcoming-page {
+    #upcoming-section {
         padding-top: 35px;
     }
 
@@ -298,7 +303,7 @@ main {
     }
 
     /* UPCOMING PAGE SPECIFIC */
-    #upcoming-page {
+    #upcoming-section {
         padding-top: 43px;
     }
 
