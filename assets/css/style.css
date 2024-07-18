@@ -209,11 +209,14 @@ main {
 
 /* RESPONSIVE LAYOUT CHANGES TO TABLETS */
 @media screen and (min-width: 768px) {
+    
     #title-area {
         font-size: 1.4rem;
         padding: 0.8rem 0.8rem 0.8rem 20%;
     }
 
+    /* UPCOMING PAGE SPECIFIC */
+    /* change title to fixed so that it remains on screen */
     #upcoming-page #title-area {
         position: fixed;
         left: -0.5%;
@@ -229,6 +232,7 @@ main {
         width: 42%;
         align-self: flex-end;
     }
+    /* END OF UPCOMING PAGE SPECIFIC */
 
 }
 /* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS */
