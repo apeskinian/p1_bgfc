@@ -147,13 +147,14 @@ main {
     }
 }
 
-/* MOVE NAVBAR TO THE TOP FOR LAPTOPS AND DESKTOPS */
+/* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS */
 @media screen and (min-width: 992px) {
     /* HEADER */
     /* push body content down to account for new navbar at the top */
     header {
         height: 40px;
     }
+  
     /* increase title size slightly */
     #title-area {
         font-size: 1.5rem;
@@ -192,9 +193,20 @@ main {
     .current-page {
         border-bottom: 1px solid whitesmoke;
     }
+    
     /* MAIN */
+    /* increase height of hero image */
     #hero {
         height: 600px;
+    }
+
+    /* increase height of map */
+    #map-frame {
+        height: 400px;
+    }
+
+    #google-map {
+        height: 400px;
     }
 
     /* FOOTER */
