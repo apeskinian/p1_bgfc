@@ -174,7 +174,7 @@ main {
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
-    padding-top: 175px;
+    padding-top: 170px;
     padding-bottom: 10px;
 }
 
@@ -210,11 +210,22 @@ main {
 /* RESPONSIVE LAYOUT CHANGES TO TABLETS */
 @media screen and (min-width: 768px) {
     #title-area {
-        font-size: 1.25rem;
+        font-size: 1.4rem;
         padding: 0.8rem 0.8rem 0.8rem 20%;
     }
-}
 
+    /* change upcoming page layout to allow for more space */
+    #upcoming-page {
+        padding-top: 35px;
+    }
+
+    #date-box {
+        margin-right: 5%;
+        width: 42%;
+        align-self: flex-end;
+    }
+
+}
 /* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS */
 @media screen and (min-width: 992px) {
     /* HEADER */
@@ -285,6 +296,16 @@ main {
     #google-map {
         height: 400px;
     }
+
+    /* UPCOMING PAGE SPECIFIC */
+    #upcoming-page {
+        padding-top: 43px;
+    }
+
+    #date-box {
+        width: 40%;
+    }
+    /* END OF UPCOMING PAGE SPECIFIC */
 
     /* FOOTER */
     /* move social bar back down */
