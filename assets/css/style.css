@@ -226,7 +226,6 @@ main {
     #upcoming-page #title-area {
         position: fixed;
         left: -0.5%;
-        padding-bottom: 0;
     }
 
     /* change upcoming page layout to allow for more space */
