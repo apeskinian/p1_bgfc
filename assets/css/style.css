@@ -120,6 +120,8 @@ main {
 #google-map {
     height: 200px;
     margin-top: 5px;
+    position: sticky;
+    top: 100%;
 }
 
 /* FOOTER */
