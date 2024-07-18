@@ -166,10 +166,14 @@ main {
 /* END OF HOMEPAGE */
 
 /* UPCOMING EVENTS PAGE */
+#upcoming-container {
+    display: flex;
+}
+
 #upcoming-section {
-    min-height: 100vh;
+    min-height: 100%;
     width: 100%;
-    background: url(../images/bgfc-upcoming.webp) no-repeat center center/cover;
+    background: url(../images/bgfc-upcoming.webp) no-repeat center center /cover;
     background-attachment: fixed;
     display: flex;
     flex-direction: column;
@@ -177,6 +181,7 @@ main {
     align-items: center;
     padding-top: 170px;
     padding-bottom: 10px;
+    flex-grow: 1;
 }
 
 #date-box {
