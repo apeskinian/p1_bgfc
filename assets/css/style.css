@@ -28,6 +28,11 @@ p {
     font-size: larger;
 }
 
+/* HIDDEN ELEMENTS */
+.hidden-elements {
+    display: none;
+}
+
 /* HEADER */
 header {
     height: 0;
@@ -105,6 +110,7 @@ nav {
 }
 
 /* MAIN */
+/* HOMEPAGE */
 main {
     flex-grow: 1;
 }
@@ -156,6 +162,32 @@ main {
     position: sticky;
     top: 100%;
 }
+/* END OF HOMEPAGE */
+
+/* UPCOMING EVENTS PAGE */
+#upcoming-page {
+    height: 100%;
+    width: 100vw;
+    background: url(../images/bgfc-upcoming.webp) no-repeat center center/cover;
+    background-position: fixed;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding-top: 175px;
+    padding-bottom: 10px;
+}
+
+#date-box {
+    color: whitesmoke;
+    background-color: rgba(59, 77, 102, 0.8);
+    padding: 10px;
+    width: 90%;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px;
+}
+/* END OF UPCOMING EVENTS PAGE */
 
 /* FOOTER */
 #social-networks {
@@ -175,9 +207,10 @@ main {
     color: #3b4d66;
 }
 
+/* RESPONSIVE LAYOUT CHANGES TO TABLETS */
 @media screen and (min-width: 768px) {
     #title-area {
-        font-size: 1.2rem;
+        font-size: 1.25rem;
         padding: 0.8rem 0.8rem 0.8rem 20%;
     }
 }
