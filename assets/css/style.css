@@ -128,6 +128,7 @@ main {
 #details h2 {
     text-align: center;
     font-size: 2rem;
+    margin-top: 0.7rem;
     margin-bottom: 0.7rem;
 }
 
@@ -166,8 +167,8 @@ main {
 
 /* UPCOMING EVENTS PAGE */
 #upcoming-section {
-    height: 100%;
-    width: 100vw;
+    min-height: 100vh;
+    width: 100%;
     background: url(../images/bgfc-upcoming.webp) no-repeat center center/cover;
     background-attachment: fixed;
     display: flex;
@@ -220,6 +221,7 @@ main {
     #upcoming-page #title-area {
         position: fixed;
         left: -0.5%;
+        padding-bottom: 0;
     }
 
     /* change upcoming page layout to allow for more space */
