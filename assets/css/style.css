@@ -184,7 +184,7 @@ main {
     flex-grow: 1;
 }
 
-#date-box {
+.date-box {
     color: whitesmoke;
     background-color: rgba(59, 77, 102, 0.8);
     padding: 10px;
@@ -233,7 +233,7 @@ main {
         padding-top: 35px;
     }
 
-    #date-box {
+    .date-box {
         margin-right: 5%;
         width: 42%;
         align-self: flex-end;
@@ -317,7 +317,7 @@ main {
         padding-top: 43px;
     }
 
-    #date-box {
+    .date-box {
         width: 40%;
     }
     /* END OF UPCOMING PAGE SPECIFIC */
