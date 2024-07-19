@@ -171,7 +171,6 @@ main {
 }
 
 #upcoming-section {
-    /* min-height: 100%; */
     width: 100%;
     background: url(../images/bgfc-upcoming.webp) no-repeat center center /cover;
     background-attachment: fixed;
@@ -210,12 +209,14 @@ main {
 }
 
 #newsletter-form-box {
+    align-self: flex-end;
     color: whitesmoke;
     background-color: rgba(59, 77, 102, 0.8);
     border-radius: 5px;
     height: fit-content;
     padding: 20px;
-    margin-top: 180px;
+    width: 80%;
+    margin-bottom: 8vh;
 }
 
 #newsletter-form-box>h2 {
@@ -291,12 +292,14 @@ main {
     }
     /* END OF UPCOMING PAGE SPECIFIC */
 
-    /* NEWSLETTER PAGE CHANGES */
-    /* move form over to the right */
-    
-    /* END OF NEWSLETTER PAGE CHANGES */
+    /* NEWSLETTER PAGE */
+    #newsletter-form-box {
+        width: 60%;
+    }
+    /* END OF NEWSLETTER PAGE */
 
 }
+
 /* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS */
 @media screen and (min-width: 992px) {
     /* HEADER */
@@ -377,6 +380,23 @@ main {
         width: 40%;
     }
     /* END OF UPCOMING PAGE SPECIFIC */
+
+    /* NEWSLETTER PAGE CHANGES */
+    #newsletter-form-box {
+        width: 40%;
+        margin-bottom: 10vh;
+    }
+
+    #signup-button {
+        padding: 10px;
+    }
+
+    #signup-button:hover {
+        background-color: #3b4d66;
+        color: #f2eace;
+        border: 1px solid #f2eace;
+    }
+    /* END OF NEWSLETTER PAGE CHANGES */
 
     /* FOOTER */
     /* move social bar back down */
