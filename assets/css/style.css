@@ -195,6 +195,17 @@ main {
 }
 /* END OF UPCOMING EVENTS PAGE */
 
+/* NEWSLETTER SPECIFIC */
+#news-form-container {
+    background-color: #3b4d66;
+    width: fit-content;
+    padding: 20px;
+    position: relative;
+    left: 50%;
+    top: 0;
+}
+/* END OF NEWSLETTER PAGE */
+
 /* FOOTER */
 #social-networks {
     background-color: #f2eace;
@@ -223,7 +234,7 @@ main {
 
     /* UPCOMING PAGE SPECIFIC */
     /* change title to fixed so that it remains on screen */
-    #upcoming-page #title-area {
+    #static-title-page #title-area {
         position: fixed;
         left: -0.5%;
     }
