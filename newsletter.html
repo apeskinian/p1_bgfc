@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body id="static-title-page">
+<body id="newsletter-page" class="static-title-page">
     <!-- Title and navbar (for mobile devices the navbar will be moved to the bottom though) -->
     <header>
         <div id="title-area">
@@ -40,21 +40,23 @@
     </header>
 
     <!-- Board Game & Film Club content -->
-    <main>
-        <section id="news-form-container">
-            <h2>Sign up to the newletter here to get all the upcoming events to your inbox!</h2>
-            <form action="https://formdump.codeinstitute.net" method="POST">
-                <label for="first-name">First Name:</label>
-                <input type="text" id="first-name" name="first-name" required>
-                <br>
-                <label for="last-name">Last Name:</label>
-                <input type="text" id="last-name" name="last-name" required>
-                <br>
-                <label for="email-address">Email:</label>
-                <input type="email" name="email-address" id="email-address" required>
-                <br>
-                <input type="submit" value="Sign me up!">
-            </form>
+    <main id="newsletter-container">
+        <section id="newsletter-section">
+            <div id="newsletter-form-box">
+                <h2>Get all the upcoming<br>events to your inbox!</h2>
+                <form action="https://formdump.codeinstitute.net" method="POST">
+                    <label for="first-name">First Name:</label>
+                    <input type="text" id="first-name" name="first-name" required>
+                    <br>
+                    <label for="last-name">Last Name:</label>
+                    <input type="text" id="last-name" name="last-name" required>
+                    <br>
+                    <label for="email-address">Email:</label>
+                    <input type="email" name="email-address" id="email-address" required>
+                    <br>
+                    <input type="submit" value="Sign me up!">
+                </form>
+            </div>
         </section>
     </main>
 

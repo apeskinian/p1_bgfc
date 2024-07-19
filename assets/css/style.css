@@ -171,7 +171,7 @@ main {
 }
 
 #upcoming-section {
-    min-height: 100%;
+    /* min-height: 100%; */
     width: 100%;
     background: url(../images/bgfc-upcoming.webp) no-repeat center center /cover;
     background-attachment: fixed;
@@ -196,13 +196,26 @@ main {
 /* END OF UPCOMING EVENTS PAGE */
 
 /* NEWSLETTER SPECIFIC */
-#news-form-container {
-    background-color: #3b4d66;
-    width: fit-content;
-    padding: 20px;
-    position: relative;
-    left: 50%;
-    top: 0;
+#newsletter-container {
+    display: flex;
+}
+
+#newsletter-section {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+    background: url(../images/bgfc-news.webp) no-repeat center center / cover;
+    background-attachment: fixed;
+}
+
+#newsletter-form-box {
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgba(59, 77, 102, 0.8);
+    height: fit-content;
+    padding: 30px;
+    margin-top: 200px;
 }
 /* END OF NEWSLETTER PAGE */
 
@@ -234,7 +247,7 @@ main {
 
     /* UPCOMING PAGE SPECIFIC */
     /* change title to fixed so that it remains on screen */
-    #static-title-page #title-area {
+    .static-title-page #title-area {
         position: fixed;
         left: -0.5%;
     }
