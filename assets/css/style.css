@@ -1,3 +1,5 @@
+ /* apeskinian| - 2024 Code Institue HTML & CSS Project 1 */
+ 
 /* IMPORTING GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&family=Fjalla+One&display=swap');
 
@@ -59,7 +61,7 @@ header a {
 }
 /* END OF FLOATING TITLE */
 
-/* NAVBAR AT THE BOTTOM FOR MOBILE */
+/* NAVBAR (WILL BE AT THE BOTTOM FOR MOBILE DEVICES AS IT'S EASIER TO REACH AND THEN MOVED TO TOP FOR LARGER DEVICES*/
 #nav-area {
     background: #3b4d66;
     position: fixed;
@@ -110,11 +112,11 @@ nav {
 }
 
 /* MAIN */
-/* HOMEPAGE */
 main {
     flex-grow: 1;
 }
 
+/* HOMEPAGE */
 #hero {
     height: 500px;
     width: 100%;
@@ -163,9 +165,9 @@ main {
     position: sticky;
     top: 100%;
 }
-/* END OF HOMEPAGE */
+/* END HOMEPAGE */
 
-/* UPCOMING EVENTS PAGE */
+/* UPCOMING PAGE */
 #upcoming-container {
     display: flex;
 }
@@ -192,9 +194,9 @@ main {
     border-radius: 5px;
     margin: 5px;
 }
-/* END OF UPCOMING EVENTS PAGE */
+/* END UPCOMING PAGE */
 
-/* NEWSLETTER SPECIFIC */
+/* NEWSLETTER PAGE */
 #newsletter-container {
     display: flex;
 }
@@ -245,7 +247,7 @@ main {
     height: 25px;
     margin-bottom: 5px;
 }
-/* END OF NEWSLETTER PAGE */
+/* END NEWSLETTER PAGE */
 
 /* FOOTER */
 #social-networks {
@@ -256,8 +258,7 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    /* move up due to navbar at the bottom */
-    margin-bottom: 49px;
+    margin-bottom: 49px; /* move up due to navbar at the bottom */
 }
 
 #social-networks i {
@@ -265,7 +266,7 @@ main {
     color: #3b4d66;
 }
 
-/* RESPONSIVE LAYOUT CHANGES TO TABLETS */
+/* RESPONSIVE LAYOUT CHANGES TO TABLETS 768PX */
 @media screen and (min-width: 768px) {
     
     #title-area {
@@ -273,14 +274,13 @@ main {
         padding: 0.8rem 0.8rem 0.8rem 20%;
     }
 
-    /* UPCOMING PAGE SPECIFIC */
+    /* UPCOMING PAGE */
     /* change title to fixed so that it remains on screen */
     .static-title-page #title-area {
         position: fixed;
         left: -0.5%;
     }
 
-    /* change upcoming page layout to allow for more space */
     #upcoming-section {
         padding-top: 35px;
     }
@@ -290,17 +290,17 @@ main {
         width: 42%;
         align-self: flex-end;
     }
-    /* END OF UPCOMING PAGE SPECIFIC */
+    /* END UPCOMING PAGE */
 
     /* NEWSLETTER PAGE */
     #newsletter-form-box {
         width: 60%;
     }
-    /* END OF NEWSLETTER PAGE */
+    /* END NEWSLETTER PAGE */
 
 }
 
-/* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS */
+/* RESPONSIVE LAYOUT CHANGES FOR LAPTOPS AND DESKTOPS 992PX */
 @media screen and (min-width: 992px) {
     /* HEADER */
     /* push body content down to account for new navbar at the top */
@@ -308,14 +308,13 @@ main {
         height: 40px;
     }
   
-    /* increase title size slightly */
     #title-area {
         font-size: 2rem;
         top: 89px;
         padding: 1rem 1rem 1rem 20%;
     }
 
-    /* moving navbar up */
+    /* moving navbar up and disable burger menu toggling putting all links in the bar*/
     #nav-area {
         position: fixed;
         top: 0%;
@@ -348,12 +347,11 @@ main {
     }
     
     /* MAIN */
-    /* increase height of hero image */
+    /* HOMEPAGE */
     #hero {
         height: 600px;
     }
 
-    /* increase font size slightly */
     #details h2 {
         font-size: 2.5rem;
     }
@@ -362,7 +360,6 @@ main {
         font-size: 1.5rem;
     }
 
-    /* increase height of map */
     #map-frame {
         height: 400px;
     }
@@ -370,8 +367,9 @@ main {
     #google-map {
         height: 400px;
     }
+    /* END HOMEPAGE */
 
-    /* UPCOMING PAGE SPECIFIC */
+    /* UPCOMING PAGE */
     #upcoming-section {
         padding-top: 43px;
     }
@@ -379,9 +377,9 @@ main {
     .date-box {
         width: 40%;
     }
-    /* END OF UPCOMING PAGE SPECIFIC */
+    /* END UPCOMING PAGE */
 
-    /* NEWSLETTER PAGE CHANGES */
+    /* NEWSLETTER PAGE */
     #newsletter-form-box {
         width: 40%;
         margin-bottom: 10vh;
@@ -396,7 +394,7 @@ main {
         color: #f2eace;
         border: 1px solid #f2eace;
     }
-    /* END OF NEWSLETTER PAGE CHANGES */
+    /* END NEWSLETTER PAGE */
 
     /* FOOTER */
     /* move social bar back down */
