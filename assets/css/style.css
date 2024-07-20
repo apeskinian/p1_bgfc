@@ -211,14 +211,14 @@ main {
 }
 
 #newsletter-form-box {
-    align-self: flex-end;
+    align-self: flex-start;
     color: whitesmoke;
     background-color: rgba(59, 77, 102, 0.8);
     border-radius: 5px;
     height: fit-content;
     padding: 20px;
     width: 80%;
-    margin-bottom: 8vh;
+    margin-top: 10vh;
 }
 
 #newsletter-form-box>h2 {
@@ -382,7 +382,6 @@ main {
     /* NEWSLETTER PAGE */
     #newsletter-form-box {
         width: 40%;
-        margin-bottom: 10vh;
     }
 
     #signup-button {
