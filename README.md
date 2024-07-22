@@ -82,3 +82,15 @@ Board Game & Film Club is a site to inform people about their local club in Maid
     - Click on the save button.
 
   - The live link can be found here: [Board Game & Film Club](https://apeskinian.github.io/p1_bgfc/ "BGFC link")
+
+## Credits
+
+### Content
+
+- The favicon is from [favicon.io](https://favicon.io/ "Favicon generator") from which the emoji graphics are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/ "CC licence")
+- The map embed code is from [Google Maps](https://www.google.co.uk/maps "Google Maps")
+- The icons for the social media are from [Font Awesome](https://fontawesome.com/ "Font Awesome")
+
+### Media
+
+ - The images used in the site were from [Pexels](https://www.pexels.com/ "Pexels Webiste"), artist [Ylanite Koppens](https://www.pexels.com/@nietjuh/ "Ylanite Koppens").
