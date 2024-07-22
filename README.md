@@ -41,5 +41,11 @@ Board Game & Film Club is a site to inform people about their local club in Maid
   - This section of the site gives both current members and potential new members all the info they need on what's happening in upcoming meets.
   - This gives them the ability to plan whether they want to attend certain dates or not.
 
-    ![Upcoming events](media/bgfc-upcoming-page.png)
+    ![Upcoming events](media/bgfc-upcoming-page.png "Newsletter page")
+
+- ### Newsletter page
+  - This page gives the user the option to sign up to an email newsletter that would send out info about the club.
+  - This might include highlights of the last meet, details on the next few meets and any other interesting news.
+
+    ![Newsletter page](media/bgfc-newsletter-page.png "Newsletter page") 
 
