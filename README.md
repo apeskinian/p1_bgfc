@@ -61,6 +61,9 @@ Board Game & Film Club is a site to inform people about their local club in Maid
   - I confirm that the header, navigation, about the club, upcoming events and newsletter text are easy to read and understand.
   - The form in the newsletter page requires inputs in all fields, has been tested and the submit button works.
 
+  - ### Bugs
+    - There are no known unfixed bugs. 
+
   - ### Validator Testing Results
 
     - The site passed HTML testing with no errors returned from the [W3C Markup Validation Service](https://validator.w3.org/ "The W3C Markup Validation Service").
@@ -68,3 +71,14 @@ Board Game & Film Club is a site to inform people about their local club in Maid
     - The site has a good accessibilty score from lighthouse in the Chrome devtools:
     
       ![Lighthouse test results](media/bgfc-lighthouse.png "Devtools Lighthouse results")
+
+## Deployment
+
+  - The site has been deployed to GitHub pages, the steps to do this were:
+  
+    - From the repository page go to the settings panel and then the pages section.
+    - Make sure 'Deploy from a branch' is selected from the Source drop down list.
+    - Select 'main' as the branch and '/root' as the folder in the Branch options.
+    - Click on the save button.
+
+  - The live link can be found here: [Board Game & Film Club](https://apeskinian.github.io/p1_bgfc/ "BGFC link")
