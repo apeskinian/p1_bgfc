@@ -55,3 +55,16 @@ Board Game & Film Club is a site to inform people about their local club in Maid
   - A forum page would also be good for members as they can discuss future meets, ideas about the club and connect.
 
 ## Testing
+
+  - This page has been tested and works in Chrome, Safari, Edge and Firefox.
+  - The site is responsive, looks good and functions on all standards screen sizes using the dev tools in Chrome.
+  - I confirm that the header, navigation, about the club, upcoming events and newsletter text are easy to read and understand.
+  - The form in the newsletter page requires inputs in all fields, has been tested and the submit button works.
+
+  - ### Validator Testing Results
+
+    - The site passed HTML testing with no errors returned from the [W3C Markup Validation Service](https://validator.w3.org/ "The W3C Markup Validation Service").
+    - The site passed CSS testing with no errors returned from the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "The W3C CSS Validation Service")
+    - The site has a good accessibilty score from lighthouse in the Chrome devtools:
+    
+      ![Lighthouse test results](media/bgfc-lighthouse.png "Devtools Lighthouse results")
