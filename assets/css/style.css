@@ -265,6 +265,21 @@ main {
 }
 /* END 404 PAGE */
 
+/* CONFIRMATION PAGE */
+#confirmation-container {
+    display: flex;
+}
+
+#confirmation-section {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+    background: url(../images/bgfc-news.webp) no-repeat center center / cover;
+    background-attachment: fixed;
+}
+/* END CONFIRMATION PAGE */
+
 /* FOOTER */
 #social-networks {
     background-color: #f2eace;
