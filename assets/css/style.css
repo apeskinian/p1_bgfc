@@ -281,6 +281,7 @@ main {
 
 #error-box>h2 {
     margin-bottom: 10px;
+    font-size: 2rem;
 }
 
 #error-box a {
