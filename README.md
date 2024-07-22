@@ -26,7 +26,12 @@ Board Game & Film Club is a site to inform people about their local club in Maid
     ![Info section](media/bgfc-what-who-where.png "Information section")
 
 - ### Map integration
-  - There is a google map iframe showing the location of where the club meets to that potential new members can see exactly where to go and also where it is in relation to where they live.
+  - The embedded Google map shows the location of where the club meets. This is for potential new members so they can see exactly where to find the club.
 
     ![Map section](media/bgfc-map.png "Google map for location")
+
+- ### Footer
+  - The footer has the links to the clubs social media.
+
+    ![Social media footer](media/bgfc-socials.png "Social media links")
 
