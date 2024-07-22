@@ -278,6 +278,30 @@ main {
     background: url(../images/bgfc-news.webp) no-repeat center center / cover;
     background-attachment: fixed;
 }
+
+#confirmation-box {
+    align-self: center;
+    background-color: rgba(59, 77, 102, 0.8);
+    color: whitesmoke;
+    height: fit-content;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#confirmation-box>h2 {
+    margin-bottom: 10px;
+}
+
+#confirmation-message {
+    margin-bottom: 10px;
+}
+
+#timer-notice {
+    font-size: 0.9rem;
+}
 /* END CONFIRMATION PAGE */
 
 /* FOOTER */
