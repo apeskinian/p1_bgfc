@@ -263,6 +263,41 @@ main {
     background: url(../images/bgfc-news.webp) no-repeat center center / cover;
     background-attachment: fixed;
 }
+
+#error-box {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background-color: rgba(59, 77, 102, 0.8);
+    color: whitesmoke;
+    height: fit-content;
+    width: 80%;
+    max-width: 780px;
+    padding: 30px;
+    border-radius: 5px;
+    align-items: center;
+    margin: 30px 0;
+}
+
+#error-box>h2 {
+    margin-bottom: 10px;
+}
+
+#error-box a {
+    text-decoration: underline;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+#error-box p {
+    text-align: center;
+}
+
+#error-box ul {
+    font-size: larger;
+    margin-left: 30px;
+}
+
 /* END 404 PAGE */
 
 /* CONFIRMATION PAGE */
