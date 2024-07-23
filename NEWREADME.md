@@ -254,6 +254,8 @@ Use this space to discuss any differences between the local version you've devel
 | [Pexels](https://www.pexels.com/photo/close-up-photo-of-monopoly-board-game-776654/) | Home Page | Image | Hero image |
 | [Pexels](https://www.pexels.com/photo/three-teal-yellow-and-red-pens-776657/) | Upcoming Page | Image | Background image |
 | [Pexels](https://www.pexels.com/photo/five-assorted-color-chess-pieces-776655/) | Newsletter Page | Image | Background image |
+| [Pexels](https://www.pexels.com/photo/five-assorted-color-chess-pieces-776655/) | Newsletter Confirmation Page | Image | Background image |
+| [Pexels](https://www.pexels.com/photo/five-assorted-color-chess-pieces-776655/) | 404 Error Page | Image | Background image |
 | [TinyPNG](https://tinypng.com) | Entire site | Image | Tool for image compression |
 
 ### Acknowledgements
