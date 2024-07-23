@@ -23,7 +23,7 @@ h1,h2,h3 {
     font-family: 'Fjalla One', sans-serif;
     font-weight: 800;
     text-transform: uppercase;
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 p {
@@ -38,7 +38,7 @@ p {
 /* HEADER */
 header {
     height: 0;
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 header a {
@@ -186,7 +186,7 @@ main {
 }
 
 .date-box {
-    color: whitesmoke;
+    color: #f5f5f5;
     background-color: rgba(59, 77, 102, 0.8);
     padding: 10px;
     width: 90%;
@@ -212,7 +212,7 @@ main {
 
 #newsletter-form-box {
     align-self: flex-start;
-    color: whitesmoke;
+    color: #f5f5f5;
     background-color: rgba(59, 77, 102, 0.8);
     border-radius: 5px;
     height: fit-content;
@@ -242,11 +242,11 @@ main {
 
 .input-box {
     background: transparent;
-    border: 1px solid whitesmoke;
+    border: 1px solid #f5f5f5;
     width: 100%;
     height: 25px;
     margin-bottom: 5px;
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 /* END NEWSLETTER PAGE */
 
@@ -269,7 +269,7 @@ main {
     flex-direction: column;
     align-self: center;
     background-color: rgba(59, 77, 102, 0.8);
-    color: whitesmoke;
+    color: #f5f5f5;
     height: fit-content;
     width: 80%;
     max-width: 780px;
@@ -287,7 +287,7 @@ main {
 #error-box a {
     text-decoration: underline;
     font-weight: 900;
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 #error-box p {
@@ -318,7 +318,7 @@ main {
 #confirmation-box {
     align-self: center;
     background-color: rgba(59, 77, 102, 0.8);
-    color: whitesmoke;
+    color: #f5f5f5;
     height: fit-content;
     width: 80%;
     max-width: 500px;
@@ -420,7 +420,7 @@ main {
 
     #menu {
         background-color: #3b4d66;
-        color: whitesmoke;
+        color: #f5f5f5;
         display: flex;
         justify-content: center;
     }
