@@ -20,33 +20,15 @@ In this section, you will briefly explain your design processes.
 
 ### Colour Scheme
 
-🛑🛑🛑🛑🛑🛑🛑🛑🛑START OF NOTES (to be deleted)
-
-Explain your colours and the colour scheme.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
-
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑START OF NOTES (to be deleted)
-
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
+- `#3a3a3a` Used for main home page text.
+- `#f5f5f5` Used for header and rest of site primary text.
+- `#3b4d66` Used as background for navbars and info boxes.
+- `#f2eace` Used as background for footer.
+- `#3b4d66` Used for social network icons and pop up navbar text.
 
 I used [Colormind](http://colormind.io/) to generate my colour palette from the hero image.
 
 ![screenshot](documentation/screenshots/generated-colours.png)
-
-
 
 ### Typography
 
