@@ -245,6 +245,7 @@ Use this space to discuss any differences between the local version you've devel
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | Entire Site | Using flexbox
 | [W3Schools](https://www.w3schools.com/css/css_positioning.asp) | Entire Site | CSS position Property |
+| [ChatGPT](https://openai.com/) | 404 Error Page | Witty 404 error message |
 
 ### Media
 
