@@ -280,7 +280,7 @@ main {
 
 #error-box>h2 {
     margin-bottom: 10px;
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
 
 #error-box a {
@@ -291,13 +291,12 @@ main {
 
 #error-box p {
     text-align: center;
+    font-size: 1rem;
 }
 
 #error-box ul {
-    font-size: larger;
     margin-left: 30px;
 }
-
 /* END 404 PAGE */
 
 /* CONFIRMATION PAGE */
@@ -387,6 +386,20 @@ main {
         width: 60%;
     }
     /* END NEWSLETTER PAGE */
+
+    /* 404 PAGE */
+    #error-box>h2 {
+        font-size: 2rem;
+    }
+
+    #error-box p {
+        font-size: larger;
+    }
+
+    #error-box ul {
+        font-size: larger;
+    }
+    /* END 404 PAGE */
 
 }
 
