@@ -58,7 +58,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 |  | upcoming.html | ![screenshot](documentation/validation/validate-html-upcoming.png) | |
 |  | newsletter.html | ![screenshot](documentation/validation/validate-html-newsletter.png) | |
 |  | confirmation.html | ![screenshot](documentation/validation/validate-html-confirmation.png) | |
-|  | upcoming.html | ![screenshot](documentation/validation/validate-html-upcoming.png) | |
+|  | 404.html | ![screenshot](documentation/validation/validate-html-404.png) | |
 
 
 ### CSS
