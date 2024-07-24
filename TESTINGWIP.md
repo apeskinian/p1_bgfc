@@ -65,11 +65,12 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-|  | 404.html | ![screenshot](documentation/validation/path-to-screenshot.png) | |
-|  | confirmation.html | ![screenshot](documentation/validation/path-to-screenshot.png) | |
-|  | index.html | ![screenshot](documentation/validation/path-to-screenshot.png) | |
-|  | newsletter.html | ![screenshot](documentation/validation/path-to-screenshot.png) | |
-|  | upcoming.html | ![screenshot](documentation/validation/path-to-screenshot.png) | |
+|  | index.html | ![screenshot](documentation/validation/validate-html-index.png) | |
+|  | upcoming.html | ![screenshot](documentation/validation/validate-html-upcoming.png) | |
+|  | newsletter.html | ![screenshot](documentation/validation/validate-html-newsletter.png) | |
+|  | confirmation.html | ![screenshot](documentation/validation/validate-html-confirmation.png) | |
+|  | upcoming.html | ![screenshot](documentation/validation/validate-html-upcoming.png) | |
+
 
 ### CSS
 
@@ -77,7 +78,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-| assets | style.css | ![screenshot](documentation/validation/path-to-screenshot.png) | |
+| assets | style.css | ![screenshot](documentation/validation/validate-css.png) | |
 
 ## Browser Compatibility
 
