@@ -39,39 +39,17 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-START OF NOTES (to be deleted)
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
-
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Contact | etc | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsiveness/responsive-mobile-home.png) | ![screenshot](documentation/responsiveness/responsive-mobile-about.png) | ![screenshot](documentation/responsiveness/responsive-mobile-contact.png) | ![screenshot](documentation/responsiveness/responsive-mobile-etc.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsiveness/responsive-tablet-home.png) | ![screenshot](documentation/responsiveness/responsive-tablet-about.png) | ![screenshot](documentation/responsiveness/responsive-tablet-contact.png) | ![screenshot](documentation/responsiveness/responsive-tablet-etc.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsiveness/responsive-desktop-home.png) | ![screenshot](documentation/responsiveness/responsive-desktop-about.png) | ![screenshot](documentation/responsiveness/responsive-desktop-contact.png) | ![screenshot](documentation/responsiveness/responsive-desktop-etc.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsiveness/responsive-xl-home.png) | ![screenshot](documentation/responsiveness/responsive-xl-about.png) | ![screenshot](documentation/responsiveness/responsive-xl-contact.png) | ![screenshot](documentation/responsiveness/responsive-xl-etc.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsiveness/responsive-4k-home.png) | ![screenshot](documentation/responsiveness/responsive-4k-about.png) | ![screenshot](documentation/responsiveness/responsive-4k-contact.png) | ![screenshot](documentation/responsiveness/responsive-4k-etc.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsiveness/responsive-pixel-home.png) | ![screenshot](documentation/responsiveness/responsive-pixel-about.png) | ![screenshot](documentation/responsiveness/responsive-pixel-contact.png) | ![screenshot](documentation/responsiveness/responsive-pixel-etc.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsiveness/responsive-iphone-home.png) | ![screenshot](documentation/responsiveness/responsive-iphone-about.png) | ![screenshot](documentation/responsiveness/responsive-iphone-contact.png) | ![screenshot](documentation/responsiveness/responsive-iphone-etc.png) | Works as expected |
-| repeat for any other tested browsers | x | x | x | x | x |
+| Device | Home | Upcoming | Newsletter | Confirmation | 404 | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](documentation/responsive/mobile-devtools-index.png) | ![screenshot](documentation/responsive/mobile-devtools-upcoming.html.png) | ![screenshot](documentation/responsive/mobile-devtools-newsletter.png) | ![screenshot](documentation/responsive/mobile-devtools-confirmation.png) | ![screenshot](documentation/responsive/mobile-devtools-404.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/responsive/tablet-devtools-index.png) | ![screenshot](documentation/responsive/tablet-devtools-upcoming.html.png) | ![screenshot](documentation/responsive/tablet-devtools-newsletter.png) | ![screenshot](documentation/responsive/tablet-devtools-confirmation.png) | ![screenshot](documentation/responsive/tablet-devtools-404.png) | Works as expected |
+| 4k Monitor (DevTools) | ![screenshot](documentation/responsive/4k-devtools-index.png) | ![screenshot](documentation/responsive/4k-devtools-upcoming.png) | ![screenshot](documentation/responsive/4k-devtools-newsletter.png) | ![screenshot](documentation/responsive/4k-devtools-confirmation.png) | ![screenshot](documentation/responsive/4k-devtools-404.png) | Scaling issues beginning |
+| iPhone 15 Pro | ![screenshot](documentation/responsive/mobile-iphone15pro-index.PNG) | ![screenshot](documentation/responsive/mobile-iphone15pro-upcoming.PNG) | ![screenshot](documentation/responsive/mobile-iphone15pro-newsletter.PNG) | ![screenshot](documentation/responsive/mobile-iphone15pro-confirmation.PNG) | ![screenshot](documentation/responsive/mobile-iphone15pro-404.PNG) | Works as expected |
+| iPad Mini | ![screenshot](documentation/responsive/mobile-ipadmini-index.PNG) | ![screenshot](documentation/responsive/mobile-ipadmini-upcoming.PNG) | ![screenshot](documentation/responsive/mobile-ipadmini-newsletter.PNG) | ![screenshot](documentation/responsive/mobile-ipadmini-confirmation.PNG) | ![screenshot](documentation/responsive/mobile-ipadmini-404.PNG) | Works as expected |
+| MacBook Air M3 | ![screenshot](documentation/responsive/laptop-macbookairm3-index.png) | ![screenshot](documentation/responsive/laptop-macbookairm3-upcoming.png) | ![screenshot](documentation/responsive/laptop-macbookairm3-newsletter.png) | ![screenshot](documentation/responsive/laptop-macbookairm3-confirmation.png) | ![screenshot](documentation/responsive/laptop-macbookairm3-404.png) | Works as expected |
+| 2K Desktop Monitor | ![screenshot](documentation/responsive/desktop-1440p-index.png) | ![screenshot](documentation/responsive/desktop-1440p-upcoming.png) | ![screenshot](documentation/responsive/desktop-1440p-newsletter.png) | ![screenshot](documentation/responsive/desktop-1440p-confirmation.png) | ![screenshot](documentation/responsive/desktop-1440p-404.png) | Works as expected |
 
 ## Lighthouse Audit
 
