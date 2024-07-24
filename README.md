@@ -125,7 +125,7 @@ Newsletter
 - ### Title & Hero Image
   - The title for the homepage floats above the hero image and scrolls with the page. The image used is a classic boardgame which is eyecatching and instantly recognisable. When the upcoming page is being viewed on tablet size and above, the title remains in place while the content scrolls next to it.
 
-    ![Homepage title and hero image](documentation/screenshots/bgfc-title&hero.png "Homepage title and hero") ![Upcoming title with scrolling content](documentation/screenshots/bgfc-upcoming-title.png "Upcoming title and scrolling content")    
+    ![Homepage title and hero image](documentation/screenshots/bgfc-title-hero.png "Homepage title and hero") ![Upcoming title with scrolling content](documentation/screenshots/bgfc-upcoming-title.png "Upcoming title and scrolling content")    
 
 - ### Navigation Bar
   - The navigation bar appears differently depending on whether the user is on a hand held mobile device such as phones and tablets, or using larger devices such as Laptops and Desktops.
