@@ -15,7 +15,16 @@ Source: [Techsini Multi Device Website Mockup Generator](http://techsini.com/mul
 The strategy was to create an easy to navigate website that introduced potential new members to the club and also gave existing members useful information about the club.
 
 The scope of features I wanted to include were:
-- location
+- Information on what the club is and what it's about (targeted at potential new members)
+- Location of the club (targeted at potential new members)
+- Dates of future events including what is happening on each date (for both existing and new members)
+- A signup page for a newsletter for the club (for both existing and new members)
+
+When looking at the site structure I decided all the information solely targeted for potential new members need to be on the homepage. This way there should be enough information about the club for them to decide if they would be interested. Information on the upcoming events on it's own page for two reasons, progressive disclosure for potential new members and also exising members can just bookmark this page rather than having to scroll past content they don't need. The newsletter form would be on it's on page as well.
+
+While wireframing the site I decided to have the navbar at the bottom with a burger menu style for the smaller devices such as phones and tablets. This will make navigation easier when they are being browsed one handed. On larger devices the navbar moves back to the top. The images for the site were chosen that matched the content of the site and also were for a game that is very well known.
+
+I then used the chosen hero image to generate the colour scheme for the site so that everything looked good together.
 
 ### Colour Scheme
 
@@ -37,13 +46,8 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site for the social media icons in the footer.
 
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 
 ## User Stories
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 START OF NOTES (to be deleted)
-
-In this section, list all of your user stories for the project.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
 
 ### New Site Users
 
@@ -60,6 +64,7 @@ In this section, list all of your user stories for the project.
 - As a returning site user, I would like to ____________, so that I can ____________.
 - As a returning site user, I would like to ____________, so that I can ____________.
 - As a returning site user, I would like to ____________, so that I can ____________.
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 
 ## Wireframes
 
@@ -227,13 +232,10 @@ You can fork this repository by using the following steps:
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 ### Local VS Deployment
 
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-START OF NOTES (to be deleted)
-
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 
 ## Credits
 
