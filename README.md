@@ -20,7 +20,11 @@ The scope of features I wanted to include were:
 - Dates of future events including what is happening on each date (for both existing and new members)
 - A signup page for a newsletter for the club (for both existing and new members)
 
-When looking at the site structure I decided all the information solely targeted for potential new members need to be on the homepage. This way there should be enough information about the club for them to decide if they would be interested. Information on the upcoming events on it's own page for two reasons, progressive disclosure for potential new members and also exising members can just bookmark this page rather than having to scroll past content they don't need. The newsletter form would be on it's on page as well.
+When looking at the site structure I decided all the information solely targeted for potential new members need to be on the homepage. This way there should be enough information about the club for them to decide if they would be interested. Information on the upcoming events on it's own page for two reasons:
+- Progressive disclosure for potential new members
+- Existing members can just bookmark this page rather than having to scroll past content they don't need.
+
+The newsletter form would be on it's on page as well.
 
 While wireframing the site I decided to have the navbar at the bottom with a burger menu style for the smaller devices such as phones and tablets. This will make navigation easier when they are being browsed one handed. On larger devices the navbar moves back to the top. The images for the site were chosen that matched the content of the site and also were for a game that is very well known.
 
