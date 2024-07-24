@@ -170,6 +170,7 @@ Newsletter
 
   - I would like to add a feature on the pages that the floating title scrolls. When the title scrolls out of view I'd like to change it to a static bar at the top similar to the navbar when it is at the top.
   - A forum page would also be good for members as they can discuss future meets, ideas about the club and connect.
+  - It would be good for the data in the newsletter submission to actually be sent to the author of the website so that a newsletter can be sent.
 
 
 ## Tools & Technologies Used

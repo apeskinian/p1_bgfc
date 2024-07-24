@@ -171,5 +171,7 @@ from the respective feature.
 
 ## Bugs
 
+- A screenshot for the README.md was named bgfc-title&hero.png so was changed to bgfc-title-hero.png to remedy any issues that would have been caused.
+
 > [!NOTE]  
 > There are no remaining bugs that I am aware of.
