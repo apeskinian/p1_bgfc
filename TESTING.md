@@ -115,16 +115,11 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/features/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/features/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/features/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/features/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to learn about what happens at the club, so that I can decide whether I would like to try it. | ![screenshot](documentation/screenshots/bgfc-what-who-where.png) |
+| As a new site user, I would like to find out where the club meets, so that I can see if it's local enough for me. | ![screenshot](documentation/screenshots/bgfc-map.png) |
+| As a new site user, I would like to learn when the next meetup is, so that I can see if I can attend that time. | ![screenshot](documentation/screenshots/bgfc-upcoming-page.png) |
+| As a returning site user, I would like to be kept up to date with events, so that I can see what's happening at the next meet. | ![screenshot](documentation/screenshots/bgfc-upcoming-page.png) |
+| As a returning site user, I would like to know about past events I may have missed, so that I can catch up on what happened and who won the last tournament. | ![screenshot](documentation/screenshots/bgfc-newsletter-page.png) |
 
 ## Bugs
 

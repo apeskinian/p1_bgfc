@@ -46,26 +46,18 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site for the social media icons in the footer.
 
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 
 ## User Stories
 
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to learn about what happens at the club, so that I can decide whether I would like to try it.
+- As a new site user, I would like to find out where the club meets, so that I can see if it's local enough for me.
+- As a new site user, I would like to learn when the next meetup is, so that I can see if I can attend that time.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
+- As a returning site user, I would like to be kept up to date with events, so that I can see what's happening at the next meet.
+- As a returning site user, I would like to know about past events I may have missed, so that I can catch up on what happened and who won the last tournament.
 
 ## Wireframes
 
