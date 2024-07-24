@@ -12,11 +12,10 @@ Source: [Techsini Multi Device Website Mockup Generator](http://techsini.com/mul
 
 ## UX
 
-🛑🛑🛑🛑🛑🛑🛑🛑🛑START OF NOTES (to be deleted)
+The strategy was to create an easy to navigate website that introduced potential new members to the club and also gave existing members useful information about the club.
 
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑-END OF NOTES (to be deleted)
+The scope of features I wanted to include were:
+- location
 
 ### Colour Scheme
 
