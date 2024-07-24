@@ -158,13 +158,23 @@ Newsletter
   - This section of the site gives both current members and potential new members all the info they need on what's happening in upcoming meets.
   - This gives them the ability to plan whether they want to attend certain dates or not.
 
-    ![Upcoming events](documentation/screenshots/bgfc-upcoming-page.png "Newsletter page")
+    ![Upcoming events](documentation/screenshots/bgfc-upcoming-page.png "Upcoming page")
 
 - ### Newsletter page
   - This page gives the user the option to sign up to an email newsletter that would send out info about the club.
   - This might include highlights of the last meet, details on the next few meets and any other interesting news.
 
-    ![Newsletter page](documentation/screenshots/bgfc-newsletter-page.png "Newsletter page") 
+    ![Newsletter page](documentation/screenshots/bgfc-newsletter-page.png "Newsletter page")
+
+- ### Newsletter confirmation page
+  - This page confirms that the form submission has been successful and that they are signed up to receive the newsletter.
+
+    ![Newsletter confirmation page](documentation/screenshots/bgfc-confirmation.png "Newsletter confirmation page")
+
+- ### 404 Error page
+  - This page shows up when there has been a 404 error. It gives the user options to navigate to other pages of the site.
+
+    ![404 page](documentation/screenshots/bgfc-404.png "404 page")
 
 ### Future Features
 
