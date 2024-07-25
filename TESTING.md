@@ -57,11 +57,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse/lighthouse-mobile-index.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-index.png) | Font Awesome and Google Fonts highlighted as render blocking on mobile |
+| Home | ![screenshot](documentation/lighthouse/lighthouse-mobile-index.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-index.png) | Font Awesome and Google Fonts highlighted as render blocking resources on mobile |
 | Upcoming | ![screenshot](documentation/lighthouse/lighthouse-mobile-upcoming.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-upcoming.png) | Some minor warnings |
 | Newsletter | ![screenshot](documentation/lighthouse/lighthouse-mobile-newsletter.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-newsletter.png) | Some minor warnings |
-| Confirmation | ![screenshot](documentation/lighthouse/lighthouse-mobile-confirmation.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-confirmation.png) | Accessibility lowered due to automatic refresh meta tag |
-| 404 | ![screenshot](documentation/lighthouse/lighthouse-mobile-404.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-404.png) | Some minor warnings |
+| Confirmation | ![screenshot](documentation/lighthouse/lighthouse-mobile-confirmation.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-confirmation.png) | Accessibility lowered due to automatic refresh meta tag, also Font Awesome and Google Fonts highlighted as render blocking resources on mobile |
+| 404 | ![screenshot](documentation/lighthouse/lighthouse-mobile-404.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-404.png) | Font Awesome and Google Fonts highlighted as render blocking resources on mobile |
 
 ## User Story Testing
 
